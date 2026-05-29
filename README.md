@@ -280,5 +280,3 @@ MIT © 2026 — Build freely, learn openly.
 ## ⭐ Show Support
 
 If this project helped you, please give it a ⭐ on GitHub! It motivates continued improvement.
-
-```
