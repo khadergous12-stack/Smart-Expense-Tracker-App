@@ -239,21 +239,6 @@ REACT_APP_API_URL=http://localhost:5000/api
 
 ---
 
-## 📸 Screenshots
-
-| Page | Description |
-|---|---|
-| `docs/login.png` | Sign In page |
-| `docs/register.png` | Register page |
-| `docs/dashboard.png` | Main dashboard with KPIs + charts |
-| `docs/transactions.png` | Transaction list with filters |
-| `docs/add-transaction.png` | Add transaction modal |
-| `docs/budgets.png` | Budget cards with progress bars |
-| `docs/reports.png` | Analytics charts page |
-| `docs/budget-alert.png` | Budget alert warning |
-
----
-
 ## 🎓 Learning Outcomes
 
 After building this project you will understand:
@@ -283,20 +268,6 @@ After building this project you will understand:
 | 5 | Transaction CRUD | `feat: add full CRUD for transactions with pagination` |
 | 6 | Budgets + Dashboard | `feat: add budget tracking and dashboard summary` |
 | 7 | Charts + Polish + GitHub | `feat: integrate Chart.js and finalize UI` |
-
----
-
-## 🤝 Interview Questions
-
-1. **"Explain your project"** — Full-stack expense tracker with React+Node+MongoDB. Users can register, log in, add income/expenses with categories, set monthly budgets, and view charts. Built to demonstrate end-to-end MERN development.
-
-2. **How is authentication implemented?** — JWT tokens signed on login, stored in localStorage, sent via `Authorization: Bearer` header on all protected API calls. Middleware extracts and verifies the token.
-
-3. **How does auto-categorization work?** — Keyword-matching rules: e.g. if description contains "zomato" or "swiggy", category → Food. No ML dependency required for the demo; easy to extend.
-
-4. **What were your biggest challenges?** — Handling pagination + filters together, computing category aggregates efficiently with MongoDB, and making charts update reactively after data changes.
-
-5. **How would you scale this?** — Add Redis caching for summary queries, push budget alerts via email (Nodemailer), add bank statement CSV import, add OAuth login, containerize with Docker.
 
 ---
 
