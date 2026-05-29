@@ -282,6 +282,3 @@ MIT © 2026 — Build freely, learn openly.
 If this project helped you, please give it a ⭐ on GitHub! It motivates continued improvement.
 
 ```
-GitHub Tags: mern-stack, expense-tracker, react, nodejs, mongodb, 
-             personal-finance, full-stack, portfolio-project, fintech, jwt-auth
-```
