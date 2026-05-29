@@ -1,10 +1,10 @@
 # 💰 SpendWise — Smart Expense Tracker Web App
 
-![SpendWise Banner](https://via.placeholder.com/1200x400/0b0f1a/10d884?text=SpendWise+%E2%80%94+Smart+Expense+Tracker)
+![SpendWise Banner](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=1200&auto=format&fit=crop)
 
 > A full-stack MERN personal finance tracker — track income, expenses, budgets, and visualize spending with beautiful charts.
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/Smart-Expense-Tracker-Web-App?style=flat-square&color=10d884)](https://github.com/yourusername/Smart-Expense-Tracker-Web-App)
+[![GitHub Stars](https://img.shields.io/github/stars/khadergous12-stack/Smart-Expense-Tracker-App?style=flat-square&color=10d884)](https://github.com/khadergous12-stack/Smart-Expense-Tracker-App)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](./CONTRIBUTING.md)
 
@@ -182,7 +182,7 @@ Smart-Expense-Tracker-Web-App/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Smart-Expense-Tracker-Web-App.git
+git clone https://github.com/khadergous12-stack/Smart-Expense-Tracker-App.git
 cd Smart-Expense-Tracker-Web-App
 ```
 
@@ -220,7 +220,7 @@ cd server
 node config/seeder.js
 ```
 
-Demo credentials: `demo@spendwise.com` / `demo123`
+Developer credentials: `developer@spendwise.com` / `developer123`
 
 ### Environment Variables
 
